@@ -1,7 +1,7 @@
 ### **🚀 Welcome to My Dev Universe!**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+I+am+Muhammad+Arsalan+Khan;A+Passionate+Full+Stack+Developer;AI+%7C+Web3+%7C+Metaverse+Learner;Let's+Build+Something+Awesome!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+There!+I+am+Muhammad+Arsalan+Khan;A+Passionate+Full+Stack+Developer;AI+%7C+Web3+%7C+Metaverse+Learner;Let's+Build+Something+Awesome!">
 </p>
 
 <h1 align="center">
